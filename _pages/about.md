@@ -27,16 +27,16 @@ BLOG: https://murphylee914.github.io/
 # Background
 
 > 2021.09 — 2024.06                                                                       Master
-China Three Gorges University                                   Manag. Sci. & Eng.
+at China Three Gorges University                                   Manag. Sci. & Eng.
 > 
 
 > 2021.03 — 2021.08                                            Assistant Cost Engineer
-Zhongshan Water Conservancy and Hydropower Surveying, Designing 
+at Zhongshan Water Conservancy and Hydropower Surveying, Designing 
 and Consulting Co., Ltd
 > 
 
 > 2016.09 — 2020.06                                                                   Bachelor
-Anhui Jianzhu University                                              Engineering Cost
+at Anhui Jianzhu University                                              Engineering Cost
 > 
 
 # Reaearch
@@ -47,19 +47,17 @@ Anhui Jianzhu University                                              Engineerin
 （ESI Highly Cited Paper）**
 > 
 
-> An EI conference paper (Accepted)
-> 
 
 ## **Working paper**
 
 ### I**n submission** (Maritime transportation)
 
-> **Integrated simulation and deep reinforcement learning optimization approach for multi-mode security inspection resource allocation of ships passing lock.**
+> **A decision-support system for multi-mode security inspection resource allocation of ships passing lock based on deep reinforcement learning.**
 > 
 
 ### **Working (Urban Logistics)**
 
-> **A two-stage optimization model of truck-based drones collaboration considering carbon emission reduction in urban delivery.**
+> **Two-stage optimization model of truck-based drones collaboration in post-disaster supply distribution.**
 > 
 
 ## Conference & SS
