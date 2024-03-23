@@ -21,7 +21,7 @@ repository               : "MurphyLee914/Lee914.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://pic.imgdb.cn/item/6524eb44c458853aef978f77.png"
+  avatar           : "images/peep.png"
   name             : "Li Zhou"
   pronouns         : "he"# example: "she/her"  
   bio              : "OR researcher"
