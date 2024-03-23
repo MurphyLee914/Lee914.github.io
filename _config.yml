@@ -12,7 +12,7 @@ title                    : "Lee's  Personal Homepage"
 title_separator          : "-"
 name                     : &name "Li Zhou"
 description              : &description "Student"
-url                      : https://murphylee914.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://murphylee914.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MurphyLee914/Lee914.github.io/"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "https://pic.imgdb.cn/item/6524eb44c458853aef978f77.png"
   name             : "Li Zhou"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he"# example: "she/her"  
   bio              : "OR researcher"
   location         : "Sichuan"
   employer         : "Sichuan University"
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "Lee"  # Replace this with your X / Twitter handle
+  twitter          : # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
