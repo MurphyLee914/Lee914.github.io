@@ -213,7 +213,7 @@ collections:
     permalink: /:collection/:path/
   blog posts:
     output: true
-    permalink: /:collection/:path/  
+    permalink: /_posts/  
 
 
 # Defaults
