@@ -10,3 +10,4 @@ tags:
 
 ![示例1.png](/images/bio-photo.jpg)
 ![示例1.png](/images/bio-photo-2.jpg)
+![示例1.png](/images/peep.png)
